@@ -1,0 +1,6 @@
+name: plugin
+main: ru.deruino.heal.Main
+version: 1.0
+commands:
+  heal:
+    description: 'Восстанавливает игроку здоровье в полном объеме'
